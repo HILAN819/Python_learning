@@ -1,0 +1,2 @@
+word = "westgate"
+print(word[::])

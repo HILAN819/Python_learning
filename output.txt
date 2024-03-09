@@ -1,0 +1,13 @@
+total 68
+drwxrwxr-x 7 developer developer  4096 Bit  8 08:02 .
+drwxr-xr-x 8 developer developer  4096 Bit  2 11:08 ..
+-rw-rw-r-- 1 developer developer    56 Bit  4 08:53 data.csv
+drwxrwxr-x 3 developer developer  4096 Bit  4 08:06 Demo
+drwxrwxr-x 3 developer developer  4096 Bit  8 06:16 Demo2
+drwxrwxr-x 3 developer developer  4096 Bit  4 08:26 extract
+-rw-rw-r-- 1 developer developer 25786 Bit  4 08:20 files.zip
+-rw-rw-r-- 1 developer developer    96 Bit  5 09:12 movies.json
+-rw-rw-r-- 1 developer developer     0 Bit  8 08:02 output.txt
+drwxrwxr-x 2 developer developer  4096 Bit  4 05:30 __pycache__
+-rw-rw-r-- 1 developer developer   266 Bit  6 11:44 students.json
+drwxrwxr-x 2 developer developer  4096 Bit  4 08:14 .vscode

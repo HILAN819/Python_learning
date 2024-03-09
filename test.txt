@@ -1,0 +1,7 @@
+This
+is 
+a 
+file
+with 
+7
+lines
